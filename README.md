@@ -2,6 +2,8 @@
 
 An indicator that overlays key historical events directly on the price chart — from 1940 to the present day.
 
+**[View on TradingView →](https://www.tradingview.com/script/lX6YZhUm-Worldwide-Events/)**
+
 ![Worldwide Events indicator on a TradingView chart](screenshot.png)
 
 ## Features
@@ -32,14 +34,13 @@ To add a new language, create `data/events-XX.md` (where `XX` is the language co
 
 ## Installation
 
-1. 📈 Open a chart on [TradingView](https://www.tradingview.com/chart/)
-2. 🧩 Click **"📊 Indicators"**
-3. 🔎 Search for `"Worldwide Events"` and add it to the chart
-4. ⚙️ Adjust settings to your preferences
-5. 🌐 Select the language in the Settings panel
-6. 🗂️ Choose the event categories you want to see
-7. 🗓️ Hover over an event icon to see its date
-8. 📊 Analyze market reactions to key historical moments
+1. 📈 Open [Worldwide Events on TradingView](https://www.tradingview.com/script/lX6YZhUm-Worldwide-Events/) and click **"Add to chart"**
+2. ⚙️ Or find it manually: open any chart → click **"📊 Indicators"** → search for `"Worldwide Events"`
+3. ⚙️ Adjust settings to your preferences
+4. 🌐 Select the language in the Settings panel
+5. 🗂️ Choose the event categories you want to see
+6. 🗓️ Hover over an event icon to see its date
+7. 📊 Analyze market reactions to key historical moments
 
 ## Development
 
