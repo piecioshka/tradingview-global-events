@@ -1,6 +1,6 @@
 # 🌍 Worldwide Events — TradingView Indicator
 
-An indicator that overlays key historical events directly on the price chart — from 1940 to the present day.
+From the Chaco War to today's headlines — overlay 90+ key historical events directly on your price chart and see how markets reacted.
 
 **[View on TradingView →](https://www.tradingview.com/script/lX6YZhUm-Worldwide-Events/)**
 
