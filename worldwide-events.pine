@@ -53,6 +53,7 @@ if barstate.isfirst
     new_event(timestamp("2025-04-02"), "Liberation Day", "Dzień Wyzwolenia (Liberation Day)")
     new_event(timestamp("2025-01-20"), "Trump - 2nd term", "Trump - 2. kadencja")
     new_event(timestamp("2024-09-18"), "Fed began cutting interest rates", "Fed zaczął obniżać stopy procentowe")
+    new_event(timestamp("2024-08-05"), "Yen carry trade collapse triggered by BoJ rate hike (Nikkei -12%)", "Krach carry trade jena po podwyżce stóp przez BoJ (Nikkei -12%)", COLOR_HIGH_PRIORITY)
     new_event(timestamp("2024-04-13"), "Iranian attack on Israel", "Irański atak na Izrael", COLOR_MEDIUM_PRIORITY)
     new_event(timestamp("2024-01-10"), "SEC approved spot Bitcoin ETF", "SEC zatwierdził spot Bitcoin ETF")
     new_event(timestamp("2023-10-07"), "Hamas attack on Israel", "Atak Hamasu na Izrael", COLOR_MEDIUM_PRIORITY)
